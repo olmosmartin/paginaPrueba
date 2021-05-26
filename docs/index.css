@@ -1,0 +1,7 @@
+.fondo{
+    background: rgb(245,245,245);
+    background: linear-gradient(119deg, rgba(245,245,245,1) 2%, rgba(61,37,190,1) 50%, rgba(255,255,255,1) 100%);
+}
+.pagina{
+    background-color: rgb(174, 195, 235);
+}
